@@ -1,3 +1,4 @@
 // test practice
 
-print(11)
+console.log(11)
+
